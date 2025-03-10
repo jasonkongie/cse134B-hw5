@@ -1,0 +1,31 @@
+{
+    "projects": [
+      { 
+        "id": 1,
+        "title": "Addiction Research Initiative", 
+        "img": "https://www.nih.gov/sites/default/files/news-events/research-matters/2007/20070716-brain.jpg", 
+        "alt": "Brain imaging representing addiction research", 
+        "description": "Here's a NIH project that I suggest looking into for understanding addiction and its impact on the Chinese community.", 
+        "link": "https://jasonkongie.com", 
+        "linkText": "View Project" 
+      },
+      { 
+        "id": 2,
+        "title": "Community Outreach Program", 
+        "img": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60", 
+        "alt": "Community event representing outreach", 
+        "description": "This program engages with the local Chinese community through mental health initiatives!!", 
+        "link": "https://google.com", 
+        "linkText": "Learn More" 
+      },
+      { 
+        "id": 3,
+        "title": "Destress with Hiking", 
+        "img": "https://outdoorbeginner.com/wp-content/uploads/2019/10/img_2835.jpg?w=1000", 
+        "alt": "Community event representing outreach", 
+        "description": "One of my most recommended hobbies is to hike at Torrey Pines State Park near La Jolla and UC San Diego!", 
+        "link": "https://google.com", 
+        "linkText": "Learn More" 
+      }
+    ]
+  }
